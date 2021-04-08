@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "mreq"
+  "defaultProject": "mreq",
+  "cli": {
+    "analytics": "6bfaba33-3d09-4b27-b6bb-930891021fd1"
+  }
 }
